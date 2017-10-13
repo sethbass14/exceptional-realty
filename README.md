@@ -7,4 +7,4 @@ This is an exammple site for the Intro to Front-end Web Development Course at Th
 
 # Contact
 
-email: jon@flatironschool.com
+email: sethbarden@flatironschool.com
